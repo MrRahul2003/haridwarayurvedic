@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="images/Haridwar-Logo-web.png">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
     
     <!-- CSS
 	============================================ -->

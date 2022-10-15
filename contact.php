@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="images/Haridwar-Logo-web.png">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
 
     <!-- CSS
 	============================================ -->
@@ -79,47 +79,6 @@
             </div>
         </div>
     </div>
-
-    <div class="contact-info-area bg-img pt-180 pb-140 default-overlay"
-        style="background-image:url(assets/img/bg/contact-info.jpg);">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4 col-md-4 col-12">
-                    <div class="single-contact-info mb-30 text-center">
-                        <div class="contact-info-icon">
-                            <span><i class="fa fa-calendar-o"></i></span>
-                        </div>
-                        <p>Mustafabad (Padartha) <br>Laksar Road , Haridwar -249404</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-4 col-12">
-                    <div class="single-contact-info mb-30 text-center">
-                        <div class="contact-info-icon">
-                            <span><i class="fa fa-calendar-o"></i></span>
-                        </div>
-                        <div class="contact-info-phn">
-                            <div class="info-phn-title">
-                                <span>Phone : </span>
-                            </div>
-                            <div class="info-phn-number">
-                                <p>+91 9892-886-394</p>
-                                <p>+91 9786-786-453</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-4 col-12">
-                    <div class="single-contact-info mb-30 text-center">
-                        <div class="contact-info-icon">
-                            <span><i class="fa fa-calendar-o"></i></span>
-                        </div>
-                        <a class="text-decoration-none" href="#">info@hamcrc.com</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
  
     <?php include 'partials/footer.php' ?>
 

@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="images/Haridwar-Logo-web.png">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
 
     <!-- CSS
 	============================================ -->
@@ -56,7 +56,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single-event mb-55 event-gray-bg">
                         <div class="event-img">
-                            <a href="event-details.html"><img src="https://hamcrc.com/wp-content/uploads/2022/09/admin_block-980x735.jpeg" alt=""></a>
+                            <a href="event-details.html"><img src="images/1.jpeg" alt=""></a>
                             <div class="event-date-wrap">
                                 <span class="event-date">1st</span>
                                 <span>Dec</span>
@@ -78,7 +78,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single-event mb-55 event-gray-bg">
                         <div class="event-img">
-                            <a href="event-details.html"><img src="https://hamcrc.com/wp-content/uploads/2022/09/cafe.jpeg" alt=""></a>
+                            <a href="event-details.html"><img src="images/2.jpeg" alt=""></a>
                             <div class="event-date-wrap">
                                 <span class="event-date">2nd</span>
                                 <span>Dec</span>
@@ -100,7 +100,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single-event mb-55 event-gray-bg">
                         <div class="event-img">
-                            <a href="event-details.html"><img src="https://hamcrc.com/wp-content/uploads/2022/09/library-980x735.jpeg" alt=""></a>
+                            <a href="event-details.html"><img src="images/3.jpeg" alt=""></a>
                             <div class="event-date-wrap">
                                 <span class="event-date">3rd</span>
                                 <span>Dec</span>
@@ -122,7 +122,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single-event mb-55 event-gray-bg">
                         <div class="event-img">
-                            <a href="event-details.html"><img src="https://hamcrc.com/wp-content/uploads/2022/09/hostel-980x735.jpeg" alt=""></a>
+                            <a href="event-details.html"><img src="images/4.jpeg" alt=""></a>
                             <div class="event-date-wrap">
                                 <span class="event-date">3rd</span>
                                 <span>Dec</span>
@@ -143,7 +143,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single-event mb-55 event-gray-bg">
                         <div class="event-img">
-                            <a href="event-details.html"><img src="https://hamcrc.com/wp-content/uploads/2022/09/What_Are_the_Different_Types_of_Medical_Laboratories_637378424351582974-980x655.png" alt=""></a>
+                            <a href="event-details.html"><img src="images/5.png" alt=""></a>
                             <div class="event-date-wrap">
                                 <span class="event-date">1st</span>
                                 <span>Dec</span>
@@ -164,7 +164,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single-event mb-55 event-gray-bg">
                         <div class="event-img">
-                            <a href="event-details.html"><img src="https://hamcrc.com/wp-content/uploads/2022/09/hospital-980x735.jpeg" alt=""></a>
+                            <a href="event-details.html"><img src="images/6.jpeg" alt=""></a>
                             <div class="event-date-wrap">
                                 <span class="event-date">2nd</span>
                                 <span>Dec</span>
@@ -185,14 +185,6 @@
                     </div>
                 </div>
             </div>
-            <!-- <div class="pro-pagination-style text-center mt-25">
-                <ul>
-                    <li><a class="prev" href="#"><i class="fa fa-angle-double-left"></i></a></li>
-                    <li><a class="active" href="#">1</a></li>
-                    <li><a href="#">2</a></li>
-                    <li><a class="next" href="#"><i class="fa fa-angle-double-right"></i></a></li>
-                </ul>
-            </div> -->
         </div>
     </div>
 
